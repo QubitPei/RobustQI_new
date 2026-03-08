@@ -1,0 +1,1 @@
+Weifeng Mao (毛伟峰) is a third-year undergraduate student. His research interests include quantum error correction (QEC) and fault-tolerant quantum computing with surface codes.

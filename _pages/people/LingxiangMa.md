@@ -1,0 +1,1 @@
+Lingxiang Ma (马翎翔) is a first-year graduate student. His research interest in the dual-rail system for quantum error correction.
